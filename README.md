@@ -1,4 +1,4 @@
-# github_auto_contribute:dizzy_face:
+# github_auto_contribute:scream:
 
 A full, all-green GitHub contribution graph shows that you are very dedicated to programming. You are lazy but you still want a full contribution gird? I've got great news for you!
 
