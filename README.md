@@ -2,6 +2,8 @@
 
 If you look for a job in the software industry, employers sometimes look at your GitHub profile. A full, all-green GitHub contribution graph shows that you are very enthusiastic about programming. 
 
+![alt text](http://www.afronski.pl/assets/PrivateContributionsGithub.png)
+
 What? You are lazy but you still want a full contribution gird? I've got great news for you!
 
 `github_auto_contribute` is a python script that automatically pushes contributions to your GitHub repository. You can get an all-green contribution graph without doing anything yourself! Cool!
